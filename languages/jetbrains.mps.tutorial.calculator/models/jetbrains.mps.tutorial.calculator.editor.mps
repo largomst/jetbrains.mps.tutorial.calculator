@@ -45,5 +45,17 @@
       <node concept="l2Vlx" id="6AaQMXapE$I" role="2iSdaV" />
     </node>
   </node>
+  <node concept="24kQdi" id="6AaQMXapLc4">
+    <ref role="1XX52x" to="mmpu:6AaQMXapLc1" resolve="InputField" />
+    <node concept="3EZMnI" id="6AaQMXapLc6" role="2wV5jI">
+      <node concept="3F0ifn" id="6AaQMXapLcd" role="3EZMnx">
+        <property role="3F0ifm" value="input" />
+      </node>
+      <node concept="3F0A7n" id="6AaQMXapLcj" role="3EZMnx">
+        <ref role="1NtTu8" to="tpck:h0TrG11" resolve="name" />
+      </node>
+      <node concept="l2Vlx" id="6AaQMXapLc9" role="2iSdaV" />
+    </node>
+  </node>
 </model>
 
