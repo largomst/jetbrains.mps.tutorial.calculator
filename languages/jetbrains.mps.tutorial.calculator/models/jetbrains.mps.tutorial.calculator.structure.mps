@@ -2,6 +2,7 @@
 <model ref="r:55b3aeeb-eed1-48f2-88f7-411145a79f8a(jetbrains.mps.tutorial.calculator.structure)">
   <persistence version="9" />
   <languages>
+    <use id="f3061a53-9226-4cc5-a443-f952ceaf5816" name="jetbrains.mps.baseLanguage" version="12" />
     <devkit ref="78434eb8-b0e5-444b-850d-e7c4ad2da9ab(jetbrains.mps.devkit.aspect.structure)" />
   </languages>
   <imports>
