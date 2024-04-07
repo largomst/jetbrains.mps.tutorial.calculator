@@ -177,5 +177,9 @@ Temporary Items
 
 ## MPS ###
 .mps/
+**/classes_gen/
+**/generator/
+**/*.caches/
+**/source_gen/
 
 # End of MPS
