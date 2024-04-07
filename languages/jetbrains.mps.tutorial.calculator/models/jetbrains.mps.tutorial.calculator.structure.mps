@@ -50,6 +50,13 @@
       <property role="20lbJX" value="fLJekj5/_0__n" />
       <ref role="20lvS9" node="6AaQMXapLc1" resolve="InputField" />
     </node>
+    <node concept="1TJgyj" id="6AaQMXapP0t" role="1TKVEi">
+      <property role="IQ2ns" value="7605131916926734365" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="outputField" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="6AaQMXapP0e" resolve="OutputField" />
+    </node>
   </node>
   <node concept="1TIwiD" id="6AaQMXapLc1">
     <property role="EcuMT" value="7605131916926718721" />
