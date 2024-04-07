@@ -79,5 +79,14 @@
       <node concept="l2Vlx" id="6AaQMXapLc9" role="2iSdaV" />
     </node>
   </node>
+  <node concept="24kQdi" id="6AaQMXapP0g">
+    <ref role="1XX52x" to="mmpu:6AaQMXapP0e" resolve="OutputField" />
+    <node concept="3EZMnI" id="6AaQMXapP0i" role="2wV5jI">
+      <node concept="3F0ifn" id="6AaQMXapP0p" role="3EZMnx">
+        <property role="3F0ifm" value="output" />
+      </node>
+      <node concept="l2Vlx" id="6AaQMXapP0l" role="2iSdaV" />
+    </node>
+  </node>
 </model>
 
