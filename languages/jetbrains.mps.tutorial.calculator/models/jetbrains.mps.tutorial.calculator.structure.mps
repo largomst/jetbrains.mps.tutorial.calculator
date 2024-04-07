@@ -41,7 +41,7 @@
     <property role="EcuMT" value="7605131916926691621" />
     <property role="TrG5h" value="Calculator" />
     <property role="19KtqR" value="true" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="6AaQMXapE$A" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
@@ -63,7 +63,7 @@
   <node concept="1TIwiD" id="6AaQMXapLc1">
     <property role="EcuMT" value="7605131916926718721" />
     <property role="TrG5h" value="InputField" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="6AaQMXapLc2" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
@@ -71,7 +71,7 @@
   <node concept="1TIwiD" id="6AaQMXapP0e">
     <property role="EcuMT" value="7605131916926734350" />
     <property role="TrG5h" value="OutputField" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="6AaQMXapY9L" role="1TKVEi">
       <property role="IQ2ns" value="7605131916926771825" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
