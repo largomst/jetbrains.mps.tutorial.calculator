@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:2dd60434-f39c-470e-9f6e-304010420a00(NewLanguage.generator.templates@generator)">
+<model ref="r:2dd60434-f39c-470e-9f6e-304010420a00(jetbrains.mps.tutorial.calculator.generator.templates@generator)">
   <persistence version="9" />
   <languages>
     <devkit ref="a2eb3a43-fcc2-4200-80dc-c60110c4862d(jetbrains.mps.devkit.templates)" />
   </languages>
   <imports>
-    <import index="mmpu" ref="r:55b3aeeb-eed1-48f2-88f7-411145a79f8a(NewLanguage.structure)" />
+    <import index="mmpu" ref="r:55b3aeeb-eed1-48f2-88f7-411145a79f8a(jetbrains.mps.tutorial.calculator.structure)" />
   </imports>
   <registry>
     <language id="b401a680-8325-4110-8fd3-84331ff25bef" name="jetbrains.mps.lang.generator">

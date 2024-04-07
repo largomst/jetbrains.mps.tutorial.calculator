@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:6969f7bf-13fc-4993-a0e4-0e0c757bfd8b(NewLanguage.editor)">
+<model ref="r:6969f7bf-13fc-4993-a0e4-0e0c757bfd8b(jetbrains.mps.tutorial.calculator.editor)">
   <persistence version="9" />
   <languages>
     <use id="18bc6592-03a6-4e29-a83a-7ff23bde13ba" name="jetbrains.mps.lang.editor" version="14" />
