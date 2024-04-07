@@ -17,6 +17,9 @@
       </concept>
     </language>
     <language id="4cfc27ec-90a6-4a9c-9dd2-dfb506777893" name="jetbrains.mps.tutorial.calculator">
+      <concept id="7605131916926823800" name="jetbrains.mps.tutorial.calculator.structure.InputFieldReference" flags="ng" index="zSBpn">
+        <reference id="7605131916926823802" name="field" index="zSBpl" />
+      </concept>
       <concept id="7605131916926691621" name="jetbrains.mps.tutorial.calculator.structure.Calculator" flags="ng" index="zV78a">
         <child id="7605131916926734365" name="outputField" index="zVoGM" />
         <child id="7605131916926718747" name="inputField" index="zVswO" />
@@ -35,16 +38,21 @@
   <node concept="zV78a" id="6AaQMXapIZ0">
     <property role="TrG5h" value="MyCalc" />
     <node concept="zVoGx" id="6AaQMXapY9b" role="zVoGM">
-      <node concept="3cpWs3" id="6AaQMXaqaPl" role="zVj_u">
-        <node concept="3cmrfG" id="6AaQMXaqaPo" role="3uHU7w">
-          <property role="3cmrfH" value="5" />
+      <node concept="3cpWs3" id="6AaQMXaqtbY" role="zVj_u">
+        <node concept="zSBpn" id="6AaQMXaqtc_" role="3uHU7w">
+          <ref role="zSBpl" node="6AaQMXapP05" resolve="width" />
         </node>
-        <node concept="3cpWs3" id="6AaQMXaq9eD" role="3uHU7B">
-          <node concept="3cmrfG" id="6AaQMXaq85Z" role="3uHU7B">
-            <property role="3cmrfH" value="2" />
+        <node concept="3cpWs3" id="6AaQMXaqaPl" role="3uHU7B">
+          <node concept="3cpWs3" id="6AaQMXaq9eD" role="3uHU7B">
+            <node concept="3cmrfG" id="6AaQMXaq85Z" role="3uHU7B">
+              <property role="3cmrfH" value="2" />
+            </node>
+            <node concept="3cmrfG" id="6AaQMXaq9eG" role="3uHU7w">
+              <property role="3cmrfH" value="3" />
+            </node>
           </node>
-          <node concept="3cmrfG" id="6AaQMXaq9eG" role="3uHU7w">
-            <property role="3cmrfH" value="3" />
+          <node concept="3cmrfG" id="6AaQMXaqaPo" role="3uHU7w">
+            <property role="3cmrfH" value="5" />
           </node>
         </node>
       </node>
