@@ -8,8 +8,10 @@
   <registry>
     <language id="4cfc27ec-90a6-4a9c-9dd2-dfb506777893" name="jetbrains.mps.tutorial.calculator">
       <concept id="7605131916926691621" name="jetbrains.mps.tutorial.calculator.structure.Calculator" flags="ng" index="zV78a">
+        <child id="7605131916926734365" name="outputField" index="zVoGM" />
         <child id="7605131916926718747" name="inputField" index="zVswO" />
       </concept>
+      <concept id="7605131916926734350" name="jetbrains.mps.tutorial.calculator.structure.OutputField" flags="ng" index="zVoGx" />
       <concept id="7605131916926718721" name="jetbrains.mps.tutorial.calculator.structure.InputField" flags="ng" index="zVswI" />
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
@@ -20,6 +22,7 @@
   </registry>
   <node concept="zV78a" id="6AaQMXapIZ0">
     <property role="TrG5h" value="MyCalc" />
+    <node concept="zVoGx" id="6AaQMXapY9b" role="zVoGM" />
     <node concept="zVswI" id="6AaQMXapP05" role="zVswO">
       <property role="TrG5h" value="width" />
     </node>
