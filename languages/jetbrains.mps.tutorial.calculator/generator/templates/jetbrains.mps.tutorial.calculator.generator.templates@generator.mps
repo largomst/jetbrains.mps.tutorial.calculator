@@ -246,6 +246,22 @@
             <ref role="37wK5l" to="z60i:~Frame.setTitle(java.lang.String)" resolve="setTitle" />
             <node concept="Xl_RD" id="6AaQMXarYSz" role="37wK5m">
               <property role="Xl_RC" value="Calculator" />
+              <node concept="17Uvod" id="6AaQMXasvzv" role="lGtFl">
+                <property role="2qtEX9" value="value" />
+                <property role="P4ACc" value="f3061a53-9226-4cc5-a443-f952ceaf5816/1070475926800/1070475926801" />
+                <node concept="3zFVjK" id="6AaQMXasvzy" role="3zH0cK">
+                  <node concept="3clFbS" id="6AaQMXasvzz" role="2VODD2">
+                    <node concept="3clFbF" id="6AaQMXasvzD" role="3cqZAp">
+                      <node concept="2OqwBi" id="6AaQMXasvz$" role="3clFbG">
+                        <node concept="3TrcHB" id="6AaQMXasvzB" role="2OqNvi">
+                          <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
+                        </node>
+                        <node concept="30H73N" id="6AaQMXasvzC" role="2Oq$k0" />
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
             </node>
           </node>
         </node>
