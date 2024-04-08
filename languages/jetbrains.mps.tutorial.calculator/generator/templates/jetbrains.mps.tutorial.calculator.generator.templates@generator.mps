@@ -193,6 +193,11 @@
       <ref role="2rTdP9" to="mmpu:6AaQMXapLc1" resolve="InputField" />
       <ref role="2rZz_L" to="tpee:fz12cDC" resolve="FieldDeclaration" />
     </node>
+    <node concept="2rT7sh" id="6AaQMXawGZA" role="2rTMjI">
+      <property role="TrG5h" value="OutputFieldDeclaration" />
+      <ref role="2rTdP9" to="mmpu:6AaQMXapP0e" resolve="OutputField" />
+      <ref role="2rZz_L" to="tpee:fz12cDC" resolve="FieldDeclaration" />
+    </node>
     <node concept="3lhOvk" id="6AaQMXaqtjX" role="3lj3bC">
       <ref role="30HIoZ" to="mmpu:6AaQMXapE$_" resolve="Calculator" />
       <ref role="3lhOvi" node="6AaQMXaqtiH" resolve="CalculatorImpl" />
@@ -341,6 +346,7 @@
         </node>
       </node>
       <node concept="1WS0z7" id="6AaQMXasU1n" role="lGtFl">
+        <ref role="2rW$FS" node="6AaQMXawGZA" resolve="OutputFieldDeclaration" />
         <node concept="3JmXsc" id="6AaQMXasU1q" role="3Jn$fo">
           <node concept="3clFbS" id="6AaQMXasU1r" role="2VODD2">
             <node concept="3clFbF" id="6AaQMXasU1x" role="3cqZAp">
@@ -520,6 +526,63 @@
                       <ref role="3TtcxE" to="mmpu:6AaQMXapLcr" resolve="inputField" />
                     </node>
                     <node concept="30H73N" id="6AaQMXatHeY" role="2Oq$k0" />
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="9aQIb" id="6AaQMXawKkB" role="3cqZAp">
+          <node concept="3clFbS" id="6AaQMXawKkD" role="9aQI4">
+            <node concept="3clFbF" id="6AaQMXawNfi" role="3cqZAp">
+              <node concept="1rXfSq" id="6AaQMXawNfg" role="3clFbG">
+                <ref role="37wK5l" to="z60i:~Container.add(java.awt.Component)" resolve="add" />
+                <node concept="2ShNRf" id="6AaQMXawPuB" role="37wK5m">
+                  <node concept="1pGfFk" id="6AaQMXax0xP" role="2ShVmc">
+                    <property role="373rjd" value="true" />
+                    <ref role="37wK5l" to="dxuu:~JLabel.&lt;init&gt;(java.lang.String)" resolve="JLabel" />
+                    <node concept="Xl_RD" id="6AaQMXax2Mq" role="37wK5m">
+                      <property role="Xl_RC" value="Output" />
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="3clFbF" id="6AaQMXax74d" role="3cqZAp">
+              <node concept="1rXfSq" id="6AaQMXax74b" role="3clFbG">
+                <ref role="37wK5l" to="z60i:~Container.add(java.awt.Component)" resolve="add" />
+                <node concept="37vLTw" id="6AaQMXaxbwJ" role="37wK5m">
+                  <ref role="3cqZAo" node="6AaQMXasOHF" resolve="outputField" />
+                  <node concept="1ZhdrF" id="6AaQMXaxdzs" role="lGtFl">
+                    <property role="2qtEX8" value="variableDeclaration" />
+                    <property role="P3scX" value="f3061a53-9226-4cc5-a443-f952ceaf5816/1068498886296/1068581517664" />
+                    <node concept="3$xsQk" id="6AaQMXaxdzt" role="3$ytzL">
+                      <node concept="3clFbS" id="6AaQMXaxdzu" role="2VODD2">
+                        <node concept="3clFbF" id="6AaQMXaxi3e" role="3cqZAp">
+                          <node concept="2OqwBi" id="6AaQMXaxjEE" role="3clFbG">
+                            <node concept="1iwH7S" id="6AaQMXaxi3d" role="2Oq$k0" />
+                            <node concept="1iwH70" id="6AaQMXaxkHr" role="2OqNvi">
+                              <ref role="1iwH77" node="6AaQMXawGZA" resolve="OutputFieldDeclaration" />
+                              <node concept="30H73N" id="6AaQMXaxpP3" role="1iwH7V" />
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node concept="1WS0z7" id="6AaQMXaxcgP" role="lGtFl">
+            <node concept="3JmXsc" id="6AaQMXaxcgS" role="3Jn$fo">
+              <node concept="3clFbS" id="6AaQMXaxcgT" role="2VODD2">
+                <node concept="3clFbF" id="6AaQMXaxcgZ" role="3cqZAp">
+                  <node concept="2OqwBi" id="6AaQMXaxcgU" role="3clFbG">
+                    <node concept="3Tsc0h" id="6AaQMXaxcgX" role="2OqNvi">
+                      <ref role="3TtcxE" to="mmpu:6AaQMXapP0t" resolve="outputField" />
+                    </node>
+                    <node concept="30H73N" id="6AaQMXaxcgY" role="2Oq$k0" />
                   </node>
                 </node>
               </node>
